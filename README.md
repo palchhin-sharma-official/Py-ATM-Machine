@@ -24,11 +24,17 @@ This project demonstrates core Python programming concepts through a practical b
 ## Project Structure
 
 PyATM-Machine/
+
 │
+
 ├── main.py
+
 ├── atm.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 
@@ -36,7 +42,7 @@ PyATM-Machine/
 
 1. Clone this repository:
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/palchhin-sharma-official/PyATM-Machine
 
 2. Open the project folder:
 
