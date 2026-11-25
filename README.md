@@ -1,2 +1,13 @@
-# PyATM-Machine
-A console-based ATM simulator built with Python, featuring configurable PIN verification, balance checking, deposits, withdrawals, and input validation.
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
