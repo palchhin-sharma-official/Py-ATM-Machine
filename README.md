@@ -42,7 +42,7 @@ PyATM-Machine/
 
 1. Clone this repository:
 
-git clone https://github.com/palchhin-sharma-official/PyATM-Machine
+git clone https://github.com/palchhin-sharma-official/PyATM-Machine.git
 
 2. Open the project folder:
 
